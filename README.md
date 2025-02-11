@@ -26,3 +26,10 @@ This script allows players to rent vehicles (cars or bikes) in FiveM. To rent a 
 
 ### Preview:
 - https://streamable.com/li99rx
+
+### Server.cfg
+```
+ensure ox_lib
+ensure ox_target
+ensure jk_rental
+```
